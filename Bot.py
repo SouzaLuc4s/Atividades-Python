@@ -11,4 +11,4 @@ async def on(context):
     await context.message.channel.send("/tts")
     await context.message.channel.send("O pai tá on!")
 
-client.run('OTQzNTcwNjIxMjI3NDc0OTY0.Yg0-ng.8YhHGQjEpIhb22rZBUe8XQf9Mzg')
+client.run('OTQzNTcwNjIxMjI3NDc0OTY0.Yg0-ng.8YhHGQjEpIhb22rXQf9Mzg')
